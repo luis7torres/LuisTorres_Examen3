@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334397508841",
+    "project_id": "luis-torres---examen-3",
+    "storage_bucket": "luis-torres---examen-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334397508841:android:7bf1492e17da475db3b478",
+        "android_client_info": {
+          "package_name": "com.example.luistorres_examen3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDruFtxPOTIL9LGw-lpDWIlPz6B0nD9Y08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

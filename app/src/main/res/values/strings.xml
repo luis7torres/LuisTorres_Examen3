@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LuisTorres_Examen3</string>
+    <string name="btn_foto">Foto</string>
+    <string name="hint_fecha">Fecha</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_registros">Registros</string>
+    <string name="btn_regresar">Regresar</string>
+</resources>
